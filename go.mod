@@ -1,3 +1,3 @@
-module github.com/regittiger/demo/v2
+module github.com/regittiger/testmod/v2
 
 go 1.14
